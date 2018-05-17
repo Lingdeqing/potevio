@@ -1,0 +1,5 @@
+/**/node_modules/*
+/lib/log/*
+/lib/cache.json
+/**/yarn-error.log
+/**/.idea/*

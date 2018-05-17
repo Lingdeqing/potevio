@@ -1,0 +1,19 @@
+{
+  "name": "potevio",
+  "version": "1.0.0",
+  "description": "网npm方案",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Franklin",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "koa": "^2.5.1",
+    "ora": "^2.1.0",
+    "request": "^2.85.0",
+    "requestretry": "^1.13.0",
+    "semver": "^5.5.0"
+  }
+}
